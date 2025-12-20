@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    "posts" # this is to tell django that we have created a new app named posts
 ]
 
 MIDDLEWARE = [
